@@ -1,4 +1,14 @@
 {
   "version": "2.0",
-  "groups": []
+  "groups": [
+    {
+      "id": "a3e3b2bf-64e5-4999-8c8c-1140f9cf216b",
+      "name": "ArtFestivalStuff",
+      "salt": "qkAntbX0033aQSdtvM6olQ==",
+      "iv": "wAHtiI69sPZQLdf4",
+      "ciphertext": "uVsjhXaxJkJepG4Fn7Ix0NRL",
+      "created": 1765112271585,
+      "modified": 1765112271585
+    }
+  ]
 }
