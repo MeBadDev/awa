@@ -1,4 +1,14 @@
 {
   "version": "2.0",
-  "groups": []
+  "groups": [
+    {
+      "id": "48a8ffc9-6ece-4f25-90fe-f5c78b00b2ad",
+      "name": "TooLazyToInstallLine",
+      "salt": "CdMsLx1XxYDCL4I3hc7gng==",
+      "iv": "vyu0bGmVjdHSLUSv",
+      "ciphertext": "OhnWJImJiGA4MYqR7thI3gG7",
+      "created": 1772944087750,
+      "modified": 1772944087750
+    }
+  ]
 }
